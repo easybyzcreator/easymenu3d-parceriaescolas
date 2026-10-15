@@ -1,0 +1,8 @@
+{
+  "name": "APP PADRAO - NOVO MODELO - EBC",
+  "description": "Sistema de Cardápio Imersivo White-Label para MIRIA PAULA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
